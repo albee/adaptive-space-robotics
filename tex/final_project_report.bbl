@@ -1,0 +1,72 @@
+\begin{thebibliography}{10}
+
+\bibitem{Dubowsky1993}
+Steven Dubowsky and Evangelos Papadopoulos.
+\newblock {The Kinematics, Dynamics, and Control of Free-Flying and
+  Free-Floating Space Robotic Systems}.
+\newblock {\em IEEE Transactions on Robotics and Automation}, 1993.
+
+\bibitem{Jia2014}
+Ying~Hong Jia, Quan Hu, and Shi~Jie Xu.
+\newblock {Dynamics and adaptive control of a dual-arm space robot with
+  closed-loop constraints and uncertain inertial parameters}.
+\newblock {\em Acta Mechanica Sinica/Lixue Xuebao}, 30(1):112--124, 2014.
+
+\bibitem{Lopez2019}
+Brett~T Lopez.
+\newblock {Adaptive Robust Model Predictive Control for Nonlinear Systems}.
+\newblock (2019), 2019.
+
+\bibitem{Mammarella2018}
+M.~Mammarella, E.~Capello, H.~Park, G.~Guglieri, and M.~Romano.
+\newblock {Tube-based robust model predictive control for spacecraft proximity
+  operations in the presence of persistent disturbance}.
+\newblock {\em Aerospace Science and Technology}, 77:585--594, 2018.
+
+\bibitem{Rybus2017}
+Tomasz Rybus, Karol Seweryn, and Jurek~Z. Sasiadek.
+\newblock {Control System for Free-Floating Space Manipulator Based on
+  Nonlinear Model Predictive Control (NMPC)}.
+\newblock {\em Journal of Intelligent {\&} Robotic Systems}, 85(3-4):491--509,
+  2017.
+
+\bibitem{Saenz-Otero2005a}
+Alvar Saenz-Otero and David~W Miller.
+\newblock {\em {Design Principles for the Development of Space Technology
+  Maturation Laboratories Aboard the International Space Station}}.
+\newblock PhD thesis, 2005.
+
+\bibitem{Slotine}
+Jean-Jacques~E Slotine and Weiping Li.
+\newblock {On the Adaptive Control of Robot Manipulators}.
+
+\bibitem{Smith2016}
+Trey Smith, Jonathan Barlow, Maria Bualat, Terrence Fong, Christopher
+  Provencher, Hugo Sanchez, and Ernest Smith.
+\newblock {Astrobee: A New Platform for Free-Flying Robotics on the ISS}.
+\newblock 2016.
+
+\bibitem{Ulrich2010}
+Steve Ulrich and Jurek~Z. Sasiadek.
+\newblock {Modified Simple Adaptive Control for a two-link space robot}.
+\newblock {\em Proceedings of the 2010 American Control Conference, ACC 2010},
+  pages 3654--3659, 2010.
+
+\bibitem{Ulrich2012}
+Steve Ulrich, Jurek~Z. Sasiadek, and Itzhak Barkana.
+\newblock {Modeling and direct adaptive control of a flexible-joint
+  manipulator}.
+\newblock {\em Journal of Guidance, Control, and Dynamics}, 35(1):25--39, 2012.
+
+\bibitem{Virgili-Llop}
+Josep Virgili-Llop, Jerry~V {Drew Ii}, and Marcello Romano.
+\newblock {SPACECRAFT ROBOTICS TOOLKIT: AN OPEN-SOURCE SIMULATOR FOR SPACECRAFT
+  ROBOTIC ARM DYNAMIC MODELING AND CONTROL}.
+
+\bibitem{Yoshida2001}
+Kazuya Yoshida, Kenichi Hashizume, and Glnd Satoko.
+\newblock {Zero Reaction Maneuver : Flight Validation with ETS-VII Space Robot
+  and Extension to Kinematically Redundant Arm H b Hbm}.
+\newblock pages 441--446, 2001.
+
+\end{thebibliography}

@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: final_project_report.aux
+The style file: plain.bst
+Database file #1: /home/albee/documents/Shared/research/mendeley-bibtex/library.bib.bib
+Repeated entry---line 1513 of file /home/albee/documents/Shared/research/mendeley-bibtex/library.bib.bib
+ : @inproceedings{Lopez2019
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5380 of file /home/albee/documents/Shared/research/mendeley-bibtex/library.bib.bib
+ : @article{Slotine
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Lopez2019
+Warning--there's a number but no volume in Lopez2019
+Warning--empty school in Saenz-Otero2005a
+Warning--empty journal in Slotine
+Warning--empty year in Slotine
+Warning--empty journal in Smith2016
+Warning--empty journal in Virgili-Llop
+Warning--empty year in Virgili-Llop
+Warning--empty journal in Yoshida2001
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            573 strings with 6453 characters,
+and the built_in function-call counts, 4016 in all, are:
+= -- 390
+> -- 215
+< -- 2
++ -- 84
+- -- 72
+* -- 290
+:= -- 688
+add.period$ -- 34
+call.type$ -- 12
+change.case$ -- 71
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 145
+empty$ -- 273
+format.name$ -- 72
+if$ -- 807
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 11
+newline$ -- 61
+num.names$ -- 24
+pop$ -- 77
+preamble$ -- 1
+purify$ -- 60
+quote$ -- 0
+skip$ -- 110
+stack$ -- 0
+substring$ -- 226
+swap$ -- 27
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 9
+while$ -- 38
+width$ -- 14
+write$ -- 120
+(There were 2 error messages)
